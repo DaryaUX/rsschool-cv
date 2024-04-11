@@ -21,7 +21,7 @@ As a budding designer, my passion lies in crafting sleek, user-centric interface
    + Tilda/Wix/Framer
 
 ## **Languages**
-
+***
    + **English** _B2_
    + **German** _A2_
    + **Polish** _B1_
