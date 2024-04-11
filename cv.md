@@ -1,8 +1,6 @@
 # **Darya Dudzina**
-***
 
 ## **Contacts**
-***
 
    + **Location:** Wroclaw, Poland
    + **E-mail:** darya.dudzina@gmail.com
@@ -12,12 +10,10 @@
    + [**Git**](https://github.com/DaryaUX)
 
 ## **About me**
-***
 
 As a budding designer, my passion lies in crafting sleek, user-centric interfaces and eye-catching layouts.  Meticulous in layer organization and component creation, I strive for pixel-perfect designs and excel in ensuring project seamlessness during hand-off.
 
 ## **Skills**
-***
 
    + Figma
    + Creative Suite
@@ -25,7 +21,6 @@ As a budding designer, my passion lies in crafting sleek, user-centric interface
    + Tilda/Wix/Framer
 
 ## **Languages**
-***
 
    + **English** _B2_
    + **German** _A2_
