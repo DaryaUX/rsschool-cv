@@ -1,1 +1,1 @@
-[# rsschool-cv](https://DaryaUX.github.io/rsschool-cv/cv)
+https://DaryaUX.github.io/rsschool-cv/

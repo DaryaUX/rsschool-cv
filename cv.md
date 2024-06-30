@@ -1,3 +1,5 @@
+![photo Darya](./assets/DudzinaCV.jpeg)
+
 # **Darya Dudzina**
 
 ## **Contacts**
