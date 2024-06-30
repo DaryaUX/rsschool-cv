@@ -1,3 +1,5 @@
+[photo](/documents/rsschool/rsschool-cv/assets/photo cv.jpg)
+
 # **Darya Dudzina**
 
 ## **Contacts**
