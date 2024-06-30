@@ -1,4 +1,4 @@
-![photo Darya](./src/assets/photo cv.jpg)
+![photo Darya](./assets/DudzinaCV.jpg)
 
 # **Darya Dudzina**
 
