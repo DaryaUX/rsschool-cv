@@ -1,4 +1,4 @@
-[photo](/documents/rsschool/rsschool-cv/assets/photo cv.jpg)
+![photo Darya](./src/assets/photo cv.jpg)
 
 # **Darya Dudzina**
 
