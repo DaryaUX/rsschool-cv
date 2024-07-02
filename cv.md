@@ -26,5 +26,5 @@ As a budding designer, my passion lies in crafting sleek, user-centric interface
 
    + **English** _B2_
    + **German** _A2_
-   + **Polish** _B1_
+   + **Polish** _B2_
    + **Russian** _Native_
