@@ -128,3 +128,13 @@ pre code {
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+.rss {
+    display: inline-block; /* Чтобы элемент занял место на странице */
+    width: 40px;
+    height: 40px;
+    background-image: url("./assets/logo_rss.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; /* Центрируем фон */
+}
