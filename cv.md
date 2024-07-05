@@ -1,4 +1,4 @@
-![photo Darya](./assets/DudzinaCV.jpeg)
+![avatar Darya](./assets/DudzinaCV.png)
 
 # **Darya Dudzina**
 
@@ -6,7 +6,7 @@
 
    + **Location:** Wroclaw, Poland
    + **E-mail:** darya.dudzina@gmail.com
-   + **Phone:** +48451113452
+   +**Phone:**+48451113452
    + [**LinkedIn**](https://www.linkedin.com/in/darya-dudzina/)
    + [**Portfolio**](https://www.behance.net/darya_dudzina)
    + [**Git**](https://github.com/DaryaUX)
