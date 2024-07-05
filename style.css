@@ -66,7 +66,10 @@ body {
 }
   
 .section {
-    width: 50%;
+    width: calc(50% - 20px);
+    padding: 10px;
+    padding-bottom: 35px;
+    border-bottom: 0.5px solid #672f2f;
 }
 
 @media (max-width: 768px) {
@@ -81,6 +84,14 @@ body {
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #4f4307;
+}
+
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 50px 30px 35px;
+    border-bottom: 5px solid #d7d1c9;
 }
 
 .section-subtitle {
@@ -108,4 +119,12 @@ pre code {
 
 .footer {
     background-color: rgb(218, 203, 182);
+}
+
+.rss {
+    width:40px;
+    height: 40px;
+    background-image: url("./assets/logo_rss.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
